@@ -1,16 +1,21 @@
-## Hi there 👋
+## Whoami
 
-<!--
-**JVM3S/JVM3S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am James (aka. Hideo). I am a high-schooler in Aichi, Japan. 
+I am an aspiring coder, with projects from C to Dart.
 
-Here are some ideas to get you started:
+I also have an avid passion in photography and cycling. 
+I mainly do landscape astrophotograpy, so I cycle far in the night chasing "the shot."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+Asahigaoka Space Balloon Project
+(https://asahiastronomy.com/2023/12/04/sb%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88/"Visit link...")
+
+Orca
+(https://apple.co/487NrdO"Show in App Store (iOS)")
+(https://bit.ly/orcaAndroid"Show in Google Play (Android)")
+
+kokosai.jp
+(https://kokosai.jp/"Visit link...")
+
+(Unless noted, these are all solo projects.)
