@@ -1,5 +1,5 @@
 # JVM3S
-Welcome to the edge of the internet!
+Welcome to the edge of the internet! 👋
 
 ## Whoami
 
@@ -9,14 +9,14 @@ I also have an avid passion in photography and cycling. I mainly do landscape as
 
 ## Projects
 
-- Asahigaoka Space Balloon Project  
+- 🚀 Asahigaoka Space Balloon Project  
 [Visit link...](https://asahiastronomy.com/2023/12/04/sb%e3%83%97%e3%83%ad%e3%82%b8%e3%82%a7%e3%82%af%e3%83%88/)
 
-- Orca  
+- 🎓 Orca  
 [Show in App Store (iOS)](https://apple.co/487NrdO)  
 [Show in Google Play (Android)](https://bit.ly/orcaAndroid)
 
-- kokosai.jp  
+- 🎊 kokosai.jp  
 [Visit link...](https://kokosai.jp/)
 
 (Unless noted, these are all solo projects.)
