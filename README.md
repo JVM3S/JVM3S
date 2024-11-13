@@ -3,7 +3,7 @@ Welcome to the edge of the internet! 👋
 
 ## Whoami
 
-I am James (aka. Hideo). I am a high-schooler in Aichi, Japan. I am an aspiring coder, with projects from C to Dart.
+I'm James. I am a high-schooler in Aichi, Japan. I am an aspiring coder, with projects from C to Dart.
 
 I also have an avid passion in photography and cycling. I mainly do landscape astrophotograpy, so I cycle far in the night chasing "the shot."
 
