@@ -7,24 +7,6 @@ I am James (aka. Hideo). I am a high-schooler in Aichi, Japan. I am an aspiring 
 
 I also have an avid passion in photography and cycling. I mainly do landscape astrophotograpy, so I cycle far in the night chasing "the shot."
 
-## Biography
-
-Main OS: Arch Linux x86_64  
-Main Host: MacBookPro8,1 1.0  
-Shell: zsh  
-Main Phone: iPhone 14 Pro (iOS 17)  
-Browser: Firefox  
-Usual Languages: Dart, Java (Kotlin), C#  
-Previous Languages: VBScript, Scratch (lol)  
-
-Main Camera: Sony α6400  
-Old Camera: Nikon D5000  
-Main Bicycle: Louis Garnaeu Multiway700  
-Daily Bicycle: Giant Escape RX  
-Trumpet: YAMAHA YTR-4335GSII  
-
-Dislikes: Microsoft, ChatGPT, ReactJS...
-
 ## Projects
 
 - Asahigaoka Space Balloon Project  
